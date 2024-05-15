@@ -1,5 +1,5 @@
-#Placeholder-API-Application
+# Placeholder-API-Application
 Placeholder-API-Application Form Tarmeez Academy
 
-##Demo
+## Demo
 https://mohammed-momtaz.github.io/Placeholder-API-Application/
